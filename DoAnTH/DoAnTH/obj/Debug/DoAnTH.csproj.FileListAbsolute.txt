@@ -1,0 +1,67 @@
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csprojAssemblyReference.cache
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.ChuongTrinh.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.btnDangNhap.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Account.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Quanli.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Coffee.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.TraSua.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.TraSua1.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.capnhatCF.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.capnhatTS.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLHoaDon.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLSanPham.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLBan.resources
+C:\Users\NGUYEN VAN QUANG\Desktop\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.SPTopping.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.AssemblyReference.cache
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Account.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.capnhatCF.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Coffee.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.capnhatTS.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLBan.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLHoaDon.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLSanPham.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.SPTopping.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.TraSua.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Quanli.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.ChuongTrinh.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.btnDangNhap.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.TraSua1.resources
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+C:\Users\Nguyen Van Quang\Downloads\DO_AN_TIN_HOC\DO_AN_TIN_HOC\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe.config
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.exe
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\bin\Debug\DoAnTH.pdb
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.AssemblyReference.cache
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Account.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.capnhatCF.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Coffee.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.capnhatTS.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLBan.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLHoaDon.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.QLSanPham.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.SPTopping.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.TraSua.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Quanli.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.ChuongTrinh.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.btnDangNhap.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.Properties.Resources.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.TraSua1.resources
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.GenerateResource.cache
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.csproj.CoreCompileInputs.cache
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.exe
+C:\Users\trung\Downloads\DoAnTH\DoAnTH\DoAnTH\obj\Debug\DoAnTH.pdb

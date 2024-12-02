@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DoAnTH</RootNamespace>
+    <AssemblyName>DoAnTH</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CNCoffee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNCoffee.Designer.cs">
+      <DependentUpon>CNCoffee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="file class\CQLBan.cs" />
+    <Compile Include="file class\COderView.cs" />
+    <Compile Include="file class\COrder.cs" />
+    <Compile Include="file class\CQLNuoc.cs" />
+    <Compile Include="file class\CQLSPNuoc.cs" />
+    <Compile Include="file class\Caffee.cs" />
+    <Compile Include="Coffee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coffee.Designer.cs">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account.Designer.cs">
+      <DependentUpon>Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dangnhap\Const.cs" />
+    <Compile Include="Dangnhap\DanhSachTaiKhoan.cs" />
+    <Compile Include="file class\fileLuuLSMua.cs" />
+    <Compile Include="CNTraSua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNTraSua.Designer.cs">
+      <DependentUpon>CNTraSua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="file class\HoaDon.cs" />
+    <Compile Include="QLBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLBan.Designer.cs">
+      <DependentUpon>QLBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLHoaDon.Designer.cs">
+      <DependentUpon>QLHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLSanPham.Designer.cs">
+      <DependentUpon>QLSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Dangnhap\TaiKhoan.cs" />
+    <Compile Include="file class\sanpham.cs" />
+    <Compile Include="SPTopping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPTopping.Designer.cs">
+      <DependentUpon>SPTopping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TraSua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TraSua.Designer.cs">
+      <DependentUpon>TraSua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quanli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quanli.Designer.cs">
+      <DependentUpon>Quanli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChuongTrinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChuongTrinh.Designer.cs">
+      <DependentUpon>ChuongTrinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dangnhap\DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangnhap\DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="file class\DatMon.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TraSua1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TraSua1.Designer.cs">
+      <DependentUpon>TraSua1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Account.resx">
+      <DependentUpon>Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNCoffee.resx">
+      <DependentUpon>CNCoffee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coffee.resx">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CNTraSua.resx">
+      <DependentUpon>CNTraSua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLBan.resx">
+      <DependentUpon>QLBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLHoaDon.resx">
+      <DependentUpon>QLHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLSanPham.resx">
+      <DependentUpon>QLSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPTopping.resx">
+      <DependentUpon>SPTopping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TraSua.resx">
+      <DependentUpon>TraSua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quanli.resx">
+      <DependentUpon>Quanli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChuongTrinh.resx">
+      <DependentUpon>ChuongTrinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dangnhap\DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TraSua1.resx">
+      <DependentUpon>TraSua1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfs1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ccdd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfden.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfdenN.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cftrung.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsscla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TSTT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tttx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TSTT1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfda1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfs4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfden1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cftrung1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ccdd3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsd1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbh1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cfs5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-add-icon-png-image_555576.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-add-icon-png-image_5555761.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lamp-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Add-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Repair-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pay-Per-Click-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Close-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Close-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\srfgergreg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsbh2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sort_descending.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sort_ascending.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1234.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-2-icon24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_close1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

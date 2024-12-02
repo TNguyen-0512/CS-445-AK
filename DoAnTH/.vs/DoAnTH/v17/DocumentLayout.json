@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\dangnhap\\danhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\dangnhap\\danhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|c:\\users\\trung\\downloads\\doanth\\doanth\\doanth\\dangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\dangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\dangnhap\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\dangnhap\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\dangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\dangnhap\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\chuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\chuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\qlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\qlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\qlban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\qlban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\cntrasua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\cntrasua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\cncoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\cncoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\doanth\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41625BB8-B9EB-4DB1-B6C6-BA67833BE2AB}|DoAnTH\\DoAnTH.csproj|solutionrelative:doanth\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CNTraSua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\CNTraSua.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\CNTraSua.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\CNTraSua.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\CNTraSua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Const.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\Const.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Dangnhap\\Const.cs",
+              "ToolTip": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\Const.cs",
+              "RelativeToolTip": "DoAnTH\\Dangnhap\\Const.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CNCoffee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\CNCoffee.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\CNCoffee.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\CNCoffee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\CNCoffee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChuongTrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\ChuongTrinh.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\ChuongTrinh.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\ChuongTrinh.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\ChuongTrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Dangnhap\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DoAnTH\\Dangnhap\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\QLBan.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\QLBan.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\QLBan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\QLBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Account.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Account.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\Account.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Dangnhap\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\DangNhap.cs",
+              "RelativeToolTip": "DoAnTH\\Dangnhap\\DangNhap.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwGgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\DanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Dangnhap\\DanhSachTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Dangnhap\\DanhSachTaiKhoan.cs",
+              "RelativeToolTip": "DoAnTH\\Dangnhap\\DanhSachTaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:18:46.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\QLSanPham.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\QLSanPham.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\QLSanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\QLSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Quanli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Quanli.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Quanli.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\Quanli.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\Quanli.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\QLHoaDon.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\QLHoaDon.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\QLHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\QLHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Coffee.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Coffee.cs",
+              "ToolTip": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Coffee.cs",
+              "RelativeToolTip": "DoAnTH\\Coffee.cs",
+              "ViewState": "AQIAACcFAAAAAAAAAAAAAJMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Coffee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\trung\\Downloads\\DoAnTH\\DoAnTH\\DoAnTH\\Coffee.cs",
+              "RelativeDocumentMoniker": "DoAnTH\\Coffee.cs",
+              "ToolTip": "C:\\Users\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\Coffee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Nguyen Van Quang\\Downloads\\DO_AN_TIN_HOC\\DO_AN_TIN_HOC\\DoAnTH\\DoAnTH\\Coffee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-01T07:18:47.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
